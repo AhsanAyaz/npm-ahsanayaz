@@ -1,6 +1,6 @@
 {
   "name": "ahsanayaz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "url": "git+https://github.com/ahsanayaz/npm-ahsanayaz.git"
   },
   "keywords": [
-    "ahsanayaz"
+    "ahsanayaz",
+    "muhammad ahsan",
+    "business card",
+    "e-card"
   ],
   "author": "Ahsan Ayaz <ahsan.ubitian@gmail.com>",
   "license": "MIT",
